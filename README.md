@@ -1,6 +1,6 @@
 DoF-Hands
 =========================
-This project is a DoF implement of the human hand  ( GPU-TF version && CPU-OpenGL version ). 
+This repository is a DoF implement of the human hand  ( GPU-TF version && CPU-OpenGL version ). 
 
 Feature
 =========================
