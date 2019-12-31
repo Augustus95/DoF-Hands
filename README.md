@@ -1,12 +1,12 @@
 DoF-Hands
 =========================
 This repository is the implements of DoF parameteried hand.
-- GPU-TensorFlow version.
-- CPU-OpenGL version.
+- **GPU-TensorFlow version.
+- **CPU-OpenGL version.
 
 Feature
 =========================
-In two versions, a single hand has 27 DoFs = 4*4+5+6.
+In two versions, a single hand has 27 DoFs = **4*4+5+6**.
 
 - **Finger*4**: where 4 in each finger, 3 for extension and flexion and one for abduction and adduction.
 - **Thumb*1**:  the thumb has 5 dofs, where 3 for extension and flexion and 2 for abduction and adduction.
