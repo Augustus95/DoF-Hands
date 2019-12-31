@@ -1,8 +1,8 @@
 DoF-Hands
 =========================
 This repository is the implements of DoF parameteried hand.
-- **GPU-TensorFlow version.
-- **CPU-OpenGL version.
+- **GPU-TensorFlow** version.
+- **CPU-OpenGL** version.
 
 Feature
 =========================
