@@ -2,6 +2,8 @@ DoF-Hands
 =========================
 This project is a DoF implement of the human hand  ( GPU-TF version && CPU-OpenGL version ). 
 
+Feature
+=========================
 **Note**: In this project, hand has 27 DoFs = 4*4+5+6
 
 - **Finger*4**: where 4 in each finger, 3 for extension and flexion and one for abduction and adduction.
