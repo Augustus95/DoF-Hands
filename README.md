@@ -16,4 +16,4 @@ Please note that our model is different from [here](https://biology.stackexchang
 
 Snapshot
 =========================
-
+![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png)![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/2.png)![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png)
