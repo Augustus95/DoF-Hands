@@ -17,9 +17,7 @@ Please note that our model is different from [here](https://biology.stackexchang
 Snapshot
 =========================
 <center class="third">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/8.png">
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png"><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png"><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/8.png">
 </center>
 
 
