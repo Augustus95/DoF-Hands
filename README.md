@@ -22,9 +22,7 @@ Snapshot
 
 
 <center class="third">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png">
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png"><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png"><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png">
 </center>
 
 
