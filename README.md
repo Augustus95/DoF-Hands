@@ -16,14 +16,13 @@ Please note that our model is different from [here](https://biology.stackexchang
 
 Snapshot
 =========================
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png)
+<center class="half">
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/2.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png" width="200"/>
+</center>
 
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/2.png)
 
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png)
+<center class="half">
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png" width="200"/>
+</center>
 
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png)
 
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png)
-
-![](https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png)
