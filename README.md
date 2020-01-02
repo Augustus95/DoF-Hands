@@ -17,12 +17,12 @@ Please note that our model is different from [here](https://biology.stackexchang
 Snapshot
 =========================
 <center class="half">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/2.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png" width="200"/>
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="150"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/2.png" width="150"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png" width="150"/>
 </center>
 
 
 <center class="half">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/4.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png" width="200"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png" width="200"/>
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/3.png" width="150"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png" width="150"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/6.png" width="150"/>
 </center>
 
 
