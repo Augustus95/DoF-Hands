@@ -13,3 +13,6 @@ In two versions, a single hand has 27 DoFs = **4*4+5+6**.
 - **Wrist*1**:  rotation and translation of the wrist.
 
 Please note that our model is different from [here](https://biology.stackexchange.com/questions/30857/does-the-human-hand-have-27-degrees-of-freedom), but you can change the code easily.
+
+Snapshot
+========================
