@@ -22,7 +22,7 @@ Snapshot
 
 
 <center class="half">
-  <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png" width="600"/>
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/5.png" width="600"/>
 </center>
 
 
