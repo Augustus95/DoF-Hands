@@ -20,19 +20,17 @@ Usage
 
 **Main function**：
 
-def Bone_Transformation_Matrix(df,length,const_joint):
-    """
-    df : N 1 25 hand dof input.
-    length : N 1 15  bone length input.
-    const_joint : N 1 15 initial palm position, where wrist is (0, 0, 0).
-    return : RT N 16 4 4 dof-parameteried RT matrix (5*3+1), where 5*3 crossponds 5 fingers, the last one crosspond wrist RT.
-    """
+def Bone_Transformation_Matrix(**df**,**length**,**const_joint**):
+- **df** : N 1 25 hand dof input.
+- **length** : N 1 15  bone length input.
+- **const_joint** : N 1 15 initial palm position, where wrist is (0, 0, 0).
+- **return** : RT N 16 4 4 dof-parameteried RT matrix (5*3+1), where 5*3 crossponds 5 fingers, the last one crosspond wrist RT.
     
 **CPU-OpenGL** version.
-- **all 27 dofs**:  **4*4+5+6**, please refer to [here](https://github.com/JenathanHoo/DoF-Hands), different keys crosspond dof index.
-- **'space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
-- automatically **save** img and crossponding pose GT: including 27 dofs + 2D joints + 3D joints + appearance.
-- **hand interaction**: hand interaction dataset generation, updating...
+- **All 27 dofs**:  **4*4+5+6**, please refer to [here](https://github.com/JenathanHoo/DoF-Hands), different keys crosspond dof index.
+- **'Space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
+- Automatically **save** img and crossponding pose GT: including 27 dofs + 2D joints + 3D joints + appearance.
+- **Hand interaction**: hand interaction dataset generation, updating...
 
 Snapshot
 =========================
