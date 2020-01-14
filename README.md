@@ -18,9 +18,9 @@ Usage
 =========================
 **GPU-TensorFlow** version
 
-**Main function**：
+Main function：
 
-def Bone_Transformation_Matrix(**df**,**length**,**const_joint**):
+def Bone_Transformation_Matrix(**df**, **length**, **const_joint**):
 - **df** : N 1 25 hand dof input.
 - **length** : N 1 15  bone length input.
 - **const_joint** : N 1 15 initial palm position, where wrist is (0, 0, 0).
