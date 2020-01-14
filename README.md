@@ -24,7 +24,7 @@ def Bone_Transformation_Matrix(**df**, **length**, **const_joint**):
 - **df**(Nx1x25): hand dof input.
 - **length**(Nx1x15): bone length input.
 - **const_joint**(Nx1x15): initial palm position, where wrist is (0, 0, 0).
-- **return RT**(Nx16x4x4): dof-parameteried RT matrix (5*3+1), where 5*3 crossponds 5 fingers, the last one crosspond wrist RT.
+- **return RT**(Nx16x4x4): dof-parameteried RT matrix (5x3+1), where 5x3 crossponds 5 fingers, the last one crosspond wrist RT.
     
 **CPU-OpenGL** version.
 - **All 27 dofs**:  **4*4+5+6**, please refer to [here](https://github.com/JenathanHoo/DoF-Hands), different keys crosspond dof index.
