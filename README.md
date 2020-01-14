@@ -20,7 +20,7 @@ Usage
 
 Main function：
 
-def Bone_Transformation_Matrix(**df**, **length**, **const_joint**):
+**def Bone_Transformation_Matrix(df, length, const_joint):**
 - **df**(Nx1x25): hand dof input.
 - **length**(Nx1x15): bone length input.
 - **const_joint**(Nx1x15): initial palm position, where wrist is (0, 0, 0).
