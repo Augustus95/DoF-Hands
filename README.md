@@ -29,7 +29,7 @@ def Bone_Transformation_Matrix(**df**, **length**, **const_joint**):
 **CPU-OpenGL** version.
 - **All 27 dofs**:  **4*4+5+6**, please refer to [here](https://github.com/JenathanHoo/DoF-Hands), keys crosspond to different dof.
 - **'Space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
-- Automatically **save** img and crossponding pose GT: including 27 dofs + 2D joints + 3D joints + appearance.
+- **Automatically save** img and crossponding pose GT: including 27 dofs + 2D joints + 3D joints + appearance.
 - **Hand interaction**: hand interaction dataset generation, updating...
 
 Snapshot
