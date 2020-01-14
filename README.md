@@ -14,17 +14,12 @@ In two versions, a single hand has 27 DoFs = **4*4+5+6**.
 
 Please note that our model is different from [here](https://biology.stackexchange.com/questions/30857/does-the-human-hand-have-27-degrees-of-freedom), but you can change the code easily.
 
-Snapshot
-=========================
-<center class="half">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="900"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/223.png" width="900"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/222.png" width="900"/>
-</center>
-
-
 Usage
 =========================
 **GPU-TensorFlow** version
+
 **Main function**：
+
 def Bone_Transformation_Matrix(df,length,const_joint):
     """
     df : N 1 25 hand dof input.
@@ -38,3 +33,12 @@ def Bone_Transformation_Matrix(df,length,const_joint):
 - **'space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
 - automatically **save** img and crossponding pose GT: including 27 dofs + 2D joints + 3D joints + appearance.
 - **hand interaction**: hand interaction dataset generation, updating...
+
+Snapshot
+=========================
+<center class="half">
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="900"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/223.png" width="900"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/222.png" width="900"/>
+</center>
+
+
+
