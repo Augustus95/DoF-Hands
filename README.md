@@ -28,7 +28,7 @@ Usage
     
 **CPU-OpenGL** version.
 
- A OpenGL GUI to render and manipulate the DOF-3D hand mesh.
+ A simple OpenGL GUI to render and manipulate the DOF-3D hand mesh.
 
 - **All 27 dofs**:  **4*4+5+6**, please refer to [Feature](https://github.com/JenathanHoo/DoF-Hands), keys crosspond to different dof.
 - **'Space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
