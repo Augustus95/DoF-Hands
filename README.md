@@ -39,4 +39,12 @@ Snapshot
 </center>
 
 
+Links
+=========================
+[1] Official Website of MANO: [https://mano.is.tue.mpg.de.](https://mano.is.tue.mpg.de) 
 
+[2] Official Website of SMPL: [http://smpl.is.tue.mpg.de.](http://smpl.is.tue.mpg.de) 
+
+[3] Official Website of SMPLify: [http://smplify.is.tue.mpg.de.](http://smplify.is.tue.mpg.de) 
+
+[4] DOF-Parameterized Hands: [http://faculty.cs.tamu.edu/jchai/projects/sigasia_2013/grasp_asia_final.pdf](http://faculty.cs.tamu.edu/jchai/projects/sigasia_2013/grasp_asia_final.pdf)
