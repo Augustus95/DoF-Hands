@@ -44,8 +44,8 @@ Snapshot
 
 TODO
 =========================
-- [] Hand interaction with dof-parameterized hands.  
-- [] Online web 3d-hand tracker, including pose,shape and appereance.
+- [ ] Hand interaction with dof-parameterized hands.  
+- [ ] Online web 3d-hand tracker, including pose,shape and appereance.
 
 
 Links
