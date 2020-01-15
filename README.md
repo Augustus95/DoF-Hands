@@ -44,7 +44,7 @@ Snapshot
 
 TODO
 =========================
-- [ ] Hand interaction with dof-parameterized hands.  
+- [ ] Hand interaction recognition using dof-parameterized hands model with RGB input.  
 - [ ] Online web 3d-hand tracker, including pose,shape and appereance.
 
 
