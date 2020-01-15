@@ -16,7 +16,7 @@ Please note that our model is different from [here](https://biology.stackexchang
 
 Usage
 =========================
-[**GPU-TensorFlow** version]
+[**GPU-TensorFlow** version.](https://github.com/JenathanHoo/DoF-Hands)
 
  Main function：
 
@@ -26,7 +26,7 @@ Usage
 - **const_joint**(Nx1x15): initial palm position, where wrist is (0, 0, 0).
 - **return RT**(Nx16x4x4): dof-converted RT matrix (5x3+1), where 5x3 crossponds 5 fingers, the last one is wrist RT.
     
-[**CPU-OpenGL** version].
+[**CPU-OpenGL** version.](https://github.com/JenathanHoo/DoF-Hands)
 
  A simple OpenGL GUI to render and manipulate the DOF-3D hand mesh.
 
