@@ -27,7 +27,7 @@ Usage
 - **return RT**(Nx16x4x4): dof-converted RT matrix (5x3+1), where 5x3 crossponds 5 fingers, the last one is wrist RT.
     
 **CPU-OpenGL** version.
-- **All 27 dofs**:  **4*4+5+6**, please refer to [feature](https://github.com/JenathanHoo/DoF-Hands), keys crosspond to different dof.
+- **All 27 dofs**:  **4*4+5+6**, please refer to [Feature](https://github.com/JenathanHoo/DoF-Hands), keys crosspond to different dof.
 - **'Space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
 - **Automatically save** img and crossponding GT labels: including 27 dofs + 2D joints + 3D joints + appearance.
 - **Hand interaction**: hand interaction dataset generation, updating...
