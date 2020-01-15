@@ -38,7 +38,7 @@ Usage
 Snapshot
 =========================
 <center class="half">
-    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="800"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/223.png" width="800"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/222.png" width="800"/>
+    <img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/1.png" width="600"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/223.png" width="600"/><img src="https://github.com/JenathanHoo/DoF-Hands/blob/master/imgs/222.png" width="600"/>
 </center>
 
 
