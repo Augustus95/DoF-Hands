@@ -12,7 +12,7 @@ In two versions, a single hand has 27 DoFs = **4*4+5+6**.
 - **Thumb*1**:  the thumb has 5 dofs, where 3 for extension and flexion and 2 for abduction and adduction.
 - **Wrist*1**:  rotation and translation of the wrist.
 
-Please note that our model is different from [here](https://biology.stackexchange.com/questions/30857/does-the-human-hand-have-27-degrees-of-freedom) and [here](http://faculty.cs.tamu.edu/jchai/projects/sigasia_2013/grasp_asia_final.pdf), but you can change the code easily.
+Please note that our model is different from [here](https://biology.stackexchange.com/questions/30857/does-the-human-hand-have-27-degrees-of-freedom) and [here](http://faculty.cs.tamu.edu/jchai/projects/sigasia_2013/grasp_asia_final.pdf), but it's easy to change the code.
 
 Usage
 =========================
