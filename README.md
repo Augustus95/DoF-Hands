@@ -21,7 +21,7 @@ Usage
  Main function：
 
  **def Bone_Transformation_Matrix(df, length, const_joint):**
-- **df**(Nx1x25): hand dof input, 25=4*(4+1)+5.
+- **df**(Nx1x25): hand dof input, 25=**4***(**4**+1)+**5**.
 - **length**(Nx1x15): bone length input.
 - **const_joint**(Nx1x15): initial palm position, where wrist is (0, 0, 0).
 - **return RT**(Nx16x4x4): dof-converted RT matrix (5x3+1), where 5x3 crossponds 5 fingers, the last one is wrist RT.
