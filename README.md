@@ -32,7 +32,7 @@ Usage
 
 - **All 27 dofs**:  **4*4+5+6**, please refer to [Feature](https://github.com/JenathanHoo/DoF-Hands), keys crosspond to different dof.
 - **'Space' key**: change hand appearance, please refer to [Mano-Textures](https://github.com/JenathanHoo/Mano-Textures).
-- **Automatically save** img and crossponding GT labels: including 27 dofs + 2D joints + 3D joints + appearance.
+- **Automatically save** img and crossponding GT labels: including **27 dofs** + **2D joints** + **3D joints** + **appearance**.
 - **Hand interaction**: hand interaction dataset generation, coming soon.
 
 Snapshot
